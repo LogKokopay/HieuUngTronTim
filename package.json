@@ -1,0 +1,29 @@
+{
+  "name": "hieuungtrontim",
+  "version": "0.0.1",
+  "description": "HieuUngTronTim bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogKokopay/HieuUngTronTim.git"
+  },
+  "keywords": [
+    "HUTT-bot-discord"
+  ],
+  "author": "HUTT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LogKokopay/HieuUngTronTim/issues"
+  },
+  "homepage": "https://github.com/LogKokopay/HieuUngTronTim#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "ffmpeg-static": "^5.2.0",
+    "google-tts-api": "^2.0.2"
+  }
+}
